@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.qchang.consumer.sit",
+            "sha256_cert_fingerprints": [
+                "0C:89:07:8B:81:32:5C:62:ED:57:C7:58:5E:0D:F5:91:A6:45:17:48:5A:C4:24:C3:68:21:3E:A4:A9:D9:C6:4F"
+            ]
+        }
+    }
+]
